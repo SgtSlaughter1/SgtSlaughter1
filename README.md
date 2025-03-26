@@ -1,8 +1,16 @@
 # 👋 Hi there, I'm Abdulsalam! 
-Welcome to my GitHub profile! I'm a passionate full-stack developer specializing in Vue.js and Laravel. I love creating visually appealing and user-friendly web applications. Currently, I'm a software engineering student at Mountain Top University, constantly learning and evolving in this ever-changing tech world.
+Welcome to my GitHub profile! I'm a passionate full-stack developer specializing in Vue.js and Laravel. I love creating visually appealing and user-friendly web applications.
+
+I'm a software engineering intern at Edutams, constantly learning and evolving in this ever-changing tech world.
+
+I am committed to web development, having built a strong foundation in HTML and CSS for creating responsive websites. I have since expanded my expertise to include JavaScript and frameworks like Vue.js for developing dynamic user interfaces.
+
+On the back-end, I work with PHP, Laravel, and databases such as MySQL and SQL to create robust web applications. This combination of front-end and back-end skills allows me to deliver seamless, end-to-end web solutions.
+
+I am dedicated to continuous learning to keep up with modern web development trends, ensuring that I deliver clean, efficient, and user-friendly solutions for every project.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,php,laravel,stackoverflow,vite,vscode,linkedin,git,github,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,php,laravel,stackoverflow,vite,postman,vscode,linkedin,git,github,figma&theme=dark)](https://skillicons.dev)
 
 ### 📈 GitHub Stats
 [![Abdulsalam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SgtSlaughter1&show_icons=true&theme=chartreuse-dark&hide_rank=true&count_private=true)](https://github.com/SgtSlaughter1/github-readme-stats)

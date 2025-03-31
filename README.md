@@ -18,7 +18,7 @@ I am dedicated to continuous learning to keep up with modern web development tre
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SgtSlaughter1&show_icons=true&locale=en&count_private=true&theme=onedark&layout=pie)
 
 ### 🔥 Streak Stats
-![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=SgtSlaughter1&theme=onedark)
+![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=SgtSlaughter1&theme=dark)
 
 ## 🌱 I’m currently learning:
 - Advanced JavaScript concepts and frameworks.

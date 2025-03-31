@@ -13,12 +13,12 @@ I am dedicated to continuous learning to keep up with modern web development tre
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,php,laravel,stackoverflow,vite,postman,vscode,linkedin,git,github,figma&theme=dark)](https://skillicons.dev)
 
 ### 📈 GitHub Stats
-![Abdulsalam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SgtSlaughter1&show_icons=true&locale=en&count_private=true&theme=algolia)
+![Abdulsalam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SgtSlaughter1&show_icons=true&locale=en&count_private=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SgtSlaughter1&show_icons=true&locale=en&count_private=true&theme=algolia&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SgtSlaughter1&show_icons=true&locale=en&count_private=true&theme=dark&layout=pie)
 
 ### 🔥 Streak Stats
-![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=SgtSlaughter1&theme=algolia)
+![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=SgtSlaughter1&theme=dark)
 
 ## 🌱 I’m currently learning:
 - Advanced JavaScript concepts and frameworks.

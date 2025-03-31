@@ -13,7 +13,7 @@ I am dedicated to continuous learning to keep up with modern web development tre
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,php,laravel,stackoverflow,vite,postman,vscode,linkedin,git,github,figma&theme=dark)](https://skillicons.dev)
 
 ### 📈 GitHub Stats
-![Abdulsalam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SgtSlaughter11&show_icons=true&locale=en&count_private=true&theme=dark)](https://github.com/SgtSlaughter1/github-readme-stats)
+![Abdulsalam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SgtSlaughter1&show_icons=true&locale=en&count_private=true&theme=dark)](https://github.com/SgtSlaughter1/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SgtSlaughter1&show_icons=true&locale=en&count_private=true&theme=dark&layout=pie)
 

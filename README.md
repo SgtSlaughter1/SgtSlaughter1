@@ -15,6 +15,8 @@ I am dedicated to continuous learning to keep up with modern web development tre
 ### 📈 GitHub Stats
 ![Abdulsalam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SgtSlaughter1&show_icons=true&locale=en&count_private=true&theme=dark)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SgtSlaughter1)](https://github.com/SgtSlaughter1/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SgtSlaughter1&show_icons=true&locale=en&count_private=true&theme=dark&layout=pie)
 
 ### 🔥 Streak Stats

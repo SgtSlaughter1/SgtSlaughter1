@@ -13,11 +13,15 @@ I am dedicated to continuous learning to keep up with modern web development tre
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,php,laravel,stackoverflow,vite,postman,vscode,linkedin,git,github,figma&theme=dark)](https://skillicons.dev)
 
 ### 📈 GitHub Stats
-[![Abdulsalam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SgtSlaughter1&show_icons=true&theme=chartreuse-dark&hide_rank=true&count_private=true)](https://github.com/SgtSlaughter1/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SgtSlaughter1&layout=compact&langs_count=20&theme=chartreuse-dark)](https://github.com/SgtSlaughter1/github-readme-stats)
+[![Abdulsalam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SgtSlaughter1&show_icons=true&locale=en&count_private=true&theme=algolia)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SgtSlaughter1&show_icons=true&locale=en&count_private=true&theme=algolia&layout=compact)
+
+![Github Graph](https://activity-graph.herokuapp.com/graph?username=SgtSlaughter1&theme=react-dark&bg_color=20232a&hide_border=true)
+
 
 ### 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SgtSlaughter1&theme=chartreuse-dark)](https://git.io/streak-stats)
+![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=SgtSlaughter1&theme=algolia)
 
 ## 🌱 I’m currently learning:
 - Advanced JavaScript concepts and frameworks.
@@ -42,8 +46,17 @@ I am dedicated to continuous learning to keep up with modern web development tre
 
 ## 📫 How to reach me:
 - Email: [habeebabdulsalam86@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/abdulsalam-habeeb-9909592a2]
 
 
 ## 😄 Pronouns:
 - He/Him
+
+
+## Connect with me:
+
+<p align="left">
+  
+<a href="https://x.com/HabeebA31942702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="Habeeb | Twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdulsalam-habeeb-9909592a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Habeeb-Abdulsalam | LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/andemosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andemosa | Instagram" height="30" width="40" /></a>
+</p>

@@ -17,9 +17,6 @@ I am dedicated to continuous learning to keep up with modern web development tre
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SgtSlaughter1&show_icons=true&locale=en&count_private=true&theme=algolia&layout=compact)
 
-![Github Graph](https://activity-graph.herokuapp.com/graph?username=SgtSlaughter1&theme=react-dark&bg_color=20232a&hide_border=true)
-
-
 ### 🔥 Streak Stats
 ![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=SgtSlaughter1&theme=algolia)
 
@@ -56,7 +53,7 @@ I am dedicated to continuous learning to keep up with modern web development tre
 
 <p align="left">
   
-<a href="https://x.com/HabeebA31942702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="Habeeb | Twitter" height="30" width="40" /></a>
+<a href="https://x.com/HabeebA31942702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Habeeb | Twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdulsalam-habeeb-9909592a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Habeeb-Abdulsalam | LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/andemosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andemosa | Instagram" height="30" width="40" /></a>
+<a href="https://instagram.com/andemosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="andemosa | Instagram" height="30" width="40" /></a>
 </p>

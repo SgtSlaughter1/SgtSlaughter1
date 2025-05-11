@@ -10,7 +10,7 @@ On the back-end, I work with PHP, Laravel, and databases such as MySQL and SQL t
 I am dedicated to continuous learning to keep up with modern web development trends, ensuring that I deliver clean, efficient, and user-friendly solutions for every project.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,php,laravel,stackoverflow,vite,postman,vscode,linkedin,git,github,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,nuxt,php,laravel,stackoverflow,vite,postman,vscode,linkedin,git,github,figma&theme=dark)](https://skillicons.dev)
 
 ### 📈 GitHub Stats
 ![Abdulsalam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SgtSlaughter1&show_icons=true&locale=en&count_private=true&theme=onedark)

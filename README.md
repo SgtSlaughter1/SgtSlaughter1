@@ -1,59 +1,47 @@
-# 👋 Hi there, I'm Abdulsalam! 
-Welcome to my GitHub profile! I'm a passionate full-stack developer specializing in Vue.js and Laravel. I love creating visually appealing and user-friendly web applications.
+# Hi, I'm Habeeb 👋
 
-I'm a software engineering intern at Edutams, constantly learning and evolving in this ever-changing tech world.
+**Fullstack developer** in Ijebu Ode, Nigeria. I build dependable web platforms with Laravel, Vue, React and Next.js, and AI agents that use RAG and tool calling to act in real systems.
 
-I am committed to web development, having built a strong foundation in HTML and CSS for creating responsive websites. I have since expanded my expertise to include JavaScript and frameworks like Vue.js for developing dynamic user interfaces.
+By day I'm a Graduate Developer at Edutams, working on the school administration platform behind Ogun State's DiPER. On my own time I build AI agents and offline-first tools.
 
-On the back-end, I work with PHP, Laravel, and databases such as MySQL and SQL to create robust web applications. This combination of front-end and back-end skills allows me to deliver seamless, end-to-end web solutions.
+**[See my portfolio and case studies →](https://habeeb-abdulsalam.vercel.app)**
 
-I am dedicated to continuous learning to keep up with modern web development trends, ensuring that I deliver clean, efficient, and user-friendly solutions for every project.
+---
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,nuxt,react,php,laravel,stackoverflow,vite,postman,vscode,linkedin,git,github,figma&theme=dark)](https://skillicons.dev)
+### What I've built
 
-### 📈 GitHub Stats
-![Abdulsalam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SgtSlaughter1&show_icons=true&locale=en&count_private=true&theme=onedark)
+Most of my best work lives in private repositories. Each project below links to a case study with the problem, how it works and the decisions behind it.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SgtSlaughter1&show_icons=true&locale=en&count_private=true&theme=onedark&layout=pie)
+| Project | What it is | Built with |
+| --- | --- | --- |
+| **[AceDrill](https://habeeb-abdulsalam.vercel.app/project/acedrill)** | WAEC and JAMB exam practice that keeps working with no internet, with an AI tutor that falls back to built-in explanations offline. [Try it live ↗](https://ailearn.gt.tc/) | Laravel · React · PWA · Groq/Gemini |
+| **[NGO Assistant](https://habeeb-abdulsalam.vercel.app/project/ngo-assistant)** | Donate goods or ask for help just by chatting. Gemini calls approved tools to create real records, and never sees who the user is. | Laravel · React · Gemini function calling |
+| **[Pamsy Assist](https://habeeb-abdulsalam.vercel.app/project/pamsy-assist)** | A support agent for a healthcare platform that answers from the help docs and checks live appointments, stock and wallets. | FastAPI · LangChain · Chroma · Gemini |
+| **[LinkedIn Agent](https://habeeb-abdulsalam.vercel.app/project/linkedin-agent)** | Drafts posts in my own voice, with images and slide decks, and publishes only what I approve. | Python · Gemini · LinkedIn API |
+| **[HAMA Vet](https://habeeb-abdulsalam.vercel.app/project/hama-vet)** | A veterinary clinic's whole business in one app: pet records, appointment booking and a store with checkout, where an order can't be paid twice. | Laravel · Inertia · Vue · Paystack |
 
-### 🔥 Streak Stats
-![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=SgtSlaughter1&theme=dark)
+Plus websites for businesses and charities in Nigeria and the UK. [See them all →](https://habeeb-abdulsalam.vercel.app/#clients)
 
-## 🌱 I’m currently learning:
-- Advanced JavaScript concepts and frameworks.
-- Advanced Vue.js and Laravel techniques.
-- Backend development to enhance my full-stack expertise.
-- Exploring new front-end technologies to enhance my design and development skills.
+---
 
-## 👯 I’m looking to collaborate on:
-- Open-source projects that align with my skills and interests.
-- Innovative web development projects that push the boundaries of what’s possible.
+### Stack
 
-## 🤔 I’m looking for help with:
-- Improving my front-end development skills.
-- Enhancing my back-end development skills.
-- Finding internship opportunities to expand my hands-on experience.
+**Frontend**
 
-## 💬 Ask me about:
-- Front-end development, especially using HTML, CSS, JavaScript, Vue.js.
-- Full-stack development with Vue.js and Laravel.
-- My experiences and projects include my portfolio website and various web apps.
-- Anything tech-related—I’m always up for a good discussion!
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,ts,js,tailwind,html,css,threejs)](https://skillicons.dev)
 
-## 📫 How to reach me:
-- Email: [habeebabdulsalam86@gmail.com]
+**Backend**
 
+[![Backend](https://skillicons.dev/icons?i=laravel,php,python,fastapi,nodejs,mysql,postgres,prisma,supabase,redis)](https://skillicons.dev)
 
-## 😄 Pronouns:
-- He/Him
+**AI:** Gemini · Groq · LangChain · RAG · function calling · Chroma · pgvector · embeddings · prompt guardrails
 
+**How I work:** I ship alongside AI coding agents like Claude Code, Codex and Kiro, and I review, test and own every line.
 
-## Connect with me:
+---
 
-<p align="left">
-  
-<a href="https://x.com/HabeebA31942702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Habeeb | Twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abdulsalam-habeeb-9909592a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Habeeb-Abdulsalam | LinkedIn" height="30" width="40" /></a>
-<a href="https://wa.me/2349076630104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="abdulsalam | Instagram" height="30" width="40" /></a>
-</p>
+### Get in touch
+
+I'm open to freelance work and fullstack roles.
+
+[Portfolio](https://habeeb-abdulsalam.vercel.app) · [LinkedIn](https://www.linkedin.com/in/abdulsalam-habeeb-9909592a2/) · [Email](mailto:habeebabdulsalam86@gmail.com) · [WhatsApp](https://wa.me/2349076630104)

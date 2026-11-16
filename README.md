@@ -44,4 +44,4 @@ Plus websites for businesses and charities in Nigeria and the UK. [See them all 
 
 I'm open to freelance work and fullstack roles.
 
-[Portfolio](https://habeeb-abdulsalam.vercel.app) · [LinkedIn](https://www.linkedin.com/in/abdulsalam-habeeb-9909592a2/) · [Email](mailto:habeebabdulsalam86@gmail.com) · [WhatsApp](https://wa.me/2349076630104)
+[Portfolio](https://habeeb-abdulsalam.vercel.app) · [LinkedIn](https://www.linkedin.com/in/habeeb-abdulsalam/) · [X](https://x.com/habeebbuilds) · [Email](mailto:habeebabdulsalam86@gmail.com) · [WhatsApp](https://wa.me/2349076630104)
